@@ -1,0 +1,51 @@
+#navbar {
+    background-color: black;
+    color: white;
+    list-style-type: none;
+    padding: 15px;
+    margin: 0px;
+    text-align: center;
+  
+  }
+  #navbar li {
+    display: inline;
+  }
+  #navbar a {
+    color: white;
+    display: inline;
+    padding: 8px;
+  }
+  body {
+    color: white;
+  }
+  #about {
+    padding: 0px;
+    background-color: grey;
+  }
+  #portfolio {
+    padding: 5px;
+    background-color: black;
+  }
+  #portfolio img {
+    padding: 1px;
+  }
+  #contact {
+    padding: 5px;
+    background-color: grey;
+  }
+  #contact form input {
+    color: grey;
+  }
+  #contact div {
+    padding: 10px;
+  }
+  h1 {
+  }
+  footer {
+    color: white;
+    background-color: black;
+    padding: 1px;
+  }
+  img {
+    padding: 10px;
+  }
