@@ -1,3 +1,1 @@
-<script>
-document.getElementById("demo").innerHTML = "Hello JavaScript!";
-</script>
+console.log("just a new script");
